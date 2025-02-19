@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.55f346ba.js",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.f23d14d212b34f19d8a7.jpg",
+    "static/media/ModelSchoolLogo.jpg": "/portfolio/static/media/ModelSchoolLogo.6eadc85c3e6d0cf9ab1c.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.55f346ba.js.map": "/portfolio/static/js/main.55f346ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.55f346ba.js"
+  ]
+}
